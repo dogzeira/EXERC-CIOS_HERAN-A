@@ -2,7 +2,7 @@
 //comportamentos (observe a tabela), utilize os seus conhecimentos e distribua as
 //características de forma que tudo o que for comum a todos os animais fique na classe
 //Animal:
-
+//
 package br.com.generation.Herança;
 
 public class Animal {
@@ -25,7 +25,7 @@ public class Animal {
 		
 }  	
 	
-
+//comentario
 	
 	
 
